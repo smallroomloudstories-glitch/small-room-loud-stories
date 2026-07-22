@@ -1,14 +1,20 @@
-# Small Room, Loud Stories starter site
+# Small Room, Loud Stories Website
 
-Add these files to the `images` folder:
+Landing page for the Small Room, Loud Stories podcast.
 
-- `logo.jpg`
-- `studio-hero.jpg`
+## Live Site
 
-To change the hero image later, overwrite `images/studio-hero.jpg`.
-The HTML does not need to change.
+https://smallroomloudstories-glitch.github.io/small-room-loud-stories/
 
-Open `index.html` in a browser to preview the site locally.
 
-Before publishing, replace the two `href="#"` placeholders in `index.html`
-with the exact Facebook and Instagram URLs.
+
+
+
+
+
+## Future Ideas
+
+- [ ] Guest archive
+- [ ] Community Spotlight
+- [ ] Episode pages
+- [ ] Contact form
