@@ -7,7 +7,11 @@ https://smallroomloudstories-glitch.github.io/small-room-loud-stories/
 Website Ideas
 -------------
 □ Information cards
+
 □ Community Spotlight page
+
 □ Guest Archive
+
 □ Better hero photo (someday)
+
 □ Contact page
