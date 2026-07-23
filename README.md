@@ -5,7 +5,9 @@ Live Site
 https://smallroomloudstories-glitch.github.io/small-room-loud-stories/
 
 Future Ideas
- Guest archive
- Community Spotlight
- Episode pages
- Contact form
+□ Information cards
+□ Community Spotlight page
+□ Guest Archive
+□ Better hero photo (someday)
+□ Contact page
+□ Episode pages
