@@ -197,6 +197,7 @@ h2 {
     margin-right: max(10vw, calc((100vw - var(--content-width)) / 2));
     text-align: left;
     transform: translateX(-4vw);
+    transform: translateY(50px);
   }
 
   .hero-copy,
